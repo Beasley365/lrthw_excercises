@@ -19,5 +19,3 @@ Why is Practice and Persistence important?
 <I dont need to copy and paste because typing the code into the terminal repeatedly gives practice with keying and muscle memory needed to be a successfull developer.>
 
 <Practice and Persistece is important because without it you will not get familiar wit the command line, command line tools, or any language. Practicing over and over and continuing to push through the blank moments is what will make you a stronger developer over time.>
-
-  
